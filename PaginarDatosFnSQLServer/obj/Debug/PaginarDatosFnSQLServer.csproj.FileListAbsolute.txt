@@ -1,0 +1,7 @@
+C:\Users\AXL\Documents\Visual Studio 2017\Projects\funcion-de-sql-para-paginar-datos\PaginarDatosFnSQLServer\bin\Debug\PaginarDatosFnSQLServer.exe.config
+C:\Users\AXL\Documents\Visual Studio 2017\Projects\funcion-de-sql-para-paginar-datos\PaginarDatosFnSQLServer\bin\Debug\PaginarDatosFnSQLServer.exe
+C:\Users\AXL\Documents\Visual Studio 2017\Projects\funcion-de-sql-para-paginar-datos\PaginarDatosFnSQLServer\bin\Debug\PaginarDatosFnSQLServer.pdb
+C:\Users\AXL\Documents\Visual Studio 2017\Projects\funcion-de-sql-para-paginar-datos\PaginarDatosFnSQLServer\obj\Debug\PaginarDatosFnSQLServer.csprojAssemblyReference.cache
+C:\Users\AXL\Documents\Visual Studio 2017\Projects\funcion-de-sql-para-paginar-datos\PaginarDatosFnSQLServer\obj\Debug\PaginarDatosFnSQLServer.csproj.CoreCompileInputs.cache
+C:\Users\AXL\Documents\Visual Studio 2017\Projects\funcion-de-sql-para-paginar-datos\PaginarDatosFnSQLServer\obj\Debug\PaginarDatosFnSQLServer.exe
+C:\Users\AXL\Documents\Visual Studio 2017\Projects\funcion-de-sql-para-paginar-datos\PaginarDatosFnSQLServer\obj\Debug\PaginarDatosFnSQLServer.pdb
