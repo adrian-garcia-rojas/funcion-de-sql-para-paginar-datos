@@ -5,3 +5,8 @@ C:\Users\AXL\Documents\Visual Studio 2017\Projects\funcion-de-sql-para-paginar-d
 C:\Users\AXL\Documents\Visual Studio 2017\Projects\funcion-de-sql-para-paginar-datos\PaginarDatosFnSQLServer\obj\Debug\PaginarDatosFnSQLServer.csproj.CoreCompileInputs.cache
 C:\Users\AXL\Documents\Visual Studio 2017\Projects\funcion-de-sql-para-paginar-datos\PaginarDatosFnSQLServer\obj\Debug\PaginarDatosFnSQLServer.exe
 C:\Users\AXL\Documents\Visual Studio 2017\Projects\funcion-de-sql-para-paginar-datos\PaginarDatosFnSQLServer\obj\Debug\PaginarDatosFnSQLServer.pdb
+C:\Users\AXL\Documents\Visual Studio 2017\Projects\funcion-de-sql-para-paginar-datos\PaginarDatosFnSQLServer\bin\Debug\EntityFramework.dll
+C:\Users\AXL\Documents\Visual Studio 2017\Projects\funcion-de-sql-para-paginar-datos\PaginarDatosFnSQLServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AXL\Documents\Visual Studio 2017\Projects\funcion-de-sql-para-paginar-datos\PaginarDatosFnSQLServer\bin\Debug\EntityFramework.xml
+C:\Users\AXL\Documents\Visual Studio 2017\Projects\funcion-de-sql-para-paginar-datos\PaginarDatosFnSQLServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AXL\Documents\Visual Studio 2017\Projects\funcion-de-sql-para-paginar-datos\PaginarDatosFnSQLServer\obj\Debug\PaginarDatosFnSQLServer.csproj.CopyComplete

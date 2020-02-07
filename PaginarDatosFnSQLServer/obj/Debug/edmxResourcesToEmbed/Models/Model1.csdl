@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbCursosModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <ComplexType Name="fnPaginar_Result">
+    <Property Name="id" Type="Int32" />
+    <Property Name="estado" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+  </ComplexType>
+  <EntityContainer Name="dbCursosEntities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="fnPaginar" IsComposable="true" ReturnType="Collection(dbCursosModel.fnPaginar_Result)">
+      <Parameter Name="pagina" Mode="In" Type="Int32" />
+      <Parameter Name="cantidadReg" Mode="In" Type="Int32" />
+    </FunctionImport>
+  </EntityContainer>
+</Schema>
